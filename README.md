@@ -1,6 +1,6 @@
 # wordle-prototype
 
-A local, working, single-page Wordle Prototype_
+_A local, working, single-page Wordle Prototype_
 
 ### Status
 
